@@ -1,0 +1,7 @@
+Flask
+SQLAlchemy
+PyJWT
+Flask-SocketIO
+Flask-CORS
+pytest
+requests
